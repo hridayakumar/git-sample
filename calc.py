@@ -1,11 +1,11 @@
 
 def add(x,y):
-  return x+y 
+    anything 
 def subtract(x,y):
 	pass
 def multiply(x,y):
-	return x*y
+	pass
 def divide(x,y):
- return x*x
+ pass 
 def square(x,y):
 	pass
